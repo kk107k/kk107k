@@ -5,7 +5,7 @@
 <h3 align="center">MERN-Stack developer</h3>
 
 
-<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/13HBDT4QSTpveU/200w.gif?cid=6c09b952zrebms3ktxk2xmlmythmwmtnivtoa1no2cs2893k&ep=v1_gifs_search&rid=200w.gif&ct=g">
+<img align="right" alt="Coding" width="30%" src="https://media3.giphy.com/media/13HBDT4QSTpveU/200w.gif?cid=6c09b952zrebms3ktxk2xmlmythmwmtnivtoa1no2cs2893k&ep=v1_gifs_search&rid=200w.gif&ct=g">
 
 - 🔭 I’m currently working on **ePassport Dapp**
 
